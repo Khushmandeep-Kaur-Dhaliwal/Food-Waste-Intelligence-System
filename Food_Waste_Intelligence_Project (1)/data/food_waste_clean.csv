@@ -1,0 +1,463 @@
+country,product,supply_chain_stage,quantity,unit,year,food_group,edible_fraction
+Switzerland,not further disaggregated/ several,Primary Production,12.5,% of agricultural production,2011,10210 - LEGUMES,% of agricultural production
+Switzerland,00570 - COMMON WHEAT GRAIN,Primary Production,10.0,% of agricultural production,2011,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Switzerland,00380 - RICE GRAIN,Retail and other distribution of food,0.3,% of mass flowing in the supply chain stage,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Switzerland,00380 - RICE GRAIN,Restaurants and food services,39.6,% of mass flowing in the supply chain stage,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Spain,00030 - CEREAL GRAINS (AND CEREAL-LIKE GRAINS),Processing and manufacturing,0.03,% of mass flowing in the supply chain stage,2022,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Sweden,00570 - COMMON WHEAT GRAIN,Primary production,2.6,% of agricultural production,2020,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Sweden,01750 - PASTA AND SIMILAR PRODUCTS,Restaurants and food services,3.2149046793760836,% of served/purchased goods,2023 (8 days over 2 weeks),00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg
+Sweden,00670 - CEREAL AND CEREAL-LIKE FLOURS,Processing and manufacturing,2.99,% of produced goods,2023-2024,00010 - GRAINS AND GRAIN-BASED PRODUCTS,tonnes/year
+Sweden,01160 - BREAD AND SIMILAR PRODUCTS,Retail and other distribution of food,8.7,% of mass flowing in the supply chain stage,2023-2024,00010 - GRAINS AND GRAIN-BASED PRODUCTS,tonnes/year
+Sweden,01160 - BREAD AND SIMILAR PRODUCTS,Households,16286.0,tonnes/year/country,2023-2025,00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/year/capita
+Sweden,00380 - RICE GRAIN,Restaurants and food services,1.3951473136915078,% of served/purchased goods,2023 (8 days over 2 weeks),00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg
+Sweden,00380 - RICE GRAIN,Households,7771.0,tonnes/year/country,2023-2025 (likely longer than that),00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/year/capita
+Italy,01160 - BREAD AND SIMILAR PRODUCTS,Retail and other distribution of food,2.1830000000000003,% of produced goods,2022,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,00570 - COMMON WHEAT GRAIN,Primary production,54.52,g/kg of final product,"2015, 2016",00010 - GRAINS AND GRAIN-BASED PRODUCTS,g/kg of final product
+Italy,00570 - COMMON WHEAT GRAIN,Processing and manufacturing,0.0,g/kg of final product,"The study was initiated in March 2016 and ended in December 2016. The data concerning semolina and pasta production were col-
+lected in 2015.",00010 - GRAINS AND GRAIN-BASED PRODUCTS,g/kg of final product
+Italy,00670 - CEREAL AND CEREAL-LIKE FLOURS,Processing and manufacturing,21.81,g/kg of final product,"2015, 2016",00010 - GRAINS AND GRAIN-BASED PRODUCTS,g/kg of final product
+Italy,01160 - BREAD AND SIMILAR PRODUCTS,Retail and other distribution of food,88.0,kg/year,2015,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,01160 - BREAD AND SIMILAR PRODUCTS,Restaurants and food services,20.0,% of served/purchased goods,2016-2017,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,01160 - BREAD AND SIMILAR PRODUCTS,Restaurants and food services,1.3333333333333333,kg/day,November  2014 (2 weeks),00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,01160 - BREAD AND SIMILAR PRODUCTS,Retail and other distribution of food,6.9,% of produced goods,February–June 2023,00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/day
+Finland,00500 - RYE GRAIN,Primary production,1.6,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Finland,00570 - COMMON WHEAT GRAIN,Primary production,1.4,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Sweden,00570 - COMMON WHEAT GRAIN,Primary production,13.0,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Sweden,00570 - COMMON WHEAT GRAIN,Primary production,2.0,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Norway,00570 - COMMON WHEAT GRAIN,Primary production,4.4,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Norway,00570 - COMMON WHEAT GRAIN,Primary production,0.7,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Norway,00570 - COMMON WHEAT GRAIN,Primary production,1.5,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Denmark,00570 - COMMON WHEAT GRAIN,Primary production,1.7,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Denmark,00570 - COMMON WHEAT GRAIN,Primary production,1.0,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Denmark,00570 - COMMON WHEAT GRAIN,Primary production,1.287,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Finland,01160 - BREAD AND SIMILAR PRODUCTS,Households,3.95,kg/year/capita,"2015, 2016, 2018, 2019",00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Households,0.63,kg/year/capita,"2015, 2016, 2018, 2019",00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Finland,00570 - COMMON WHEAT GRAIN,Primary Production,2.0,% of agricultural production,2007-2011; 2012,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Finland,00030 - CEREAL GRAINS (AND CEREAL-LIKE GRAINS),Processing and manufacturing,7.0,% of mass flowing in the supply chain stage,2019,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Retail and other distribution of food,5.0,% of mass flowing in the supply chain stage,2019,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Switzerland,not further disaggregated/ several,Households,4.97,g/day/capita,2024,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Switzerland,01750 - PASTA AND SIMILAR PRODUCTS,Households,3.19,g/day/capita,2024,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Switzerland,01160 - BREAD AND SIMILAR PRODUCTS,Households,1.55,g/day/capita,2024,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Netherlands,00380 - RICE GRAIN,Households,27.7,% of served/purchased goods,2022,00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/year/capita
+Netherlands,00380 - RICE GRAIN,Households,38.9,% of served/purchased goods,2019,00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/year/capita
+Netherlands,00380 - RICE GRAIN,Households,34.0,% of served/purchased goods,2016,00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/year/capita
+Italy,not further disaggregated/ several,Households,5.3,kg/year/capita,2017,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Households,6.7,kg/year/capita,2021,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Greece,01160 - BREAD AND SIMILAR PRODUCTS,Households,7.2,kg/year/capita,2021,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+France,00030 - CEREAL GRAINS (AND CEREAL-LIKE GRAINS),Primary production,2.0,% of agricultural production,Not specified,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Austria,00570 - COMMON WHEAT GRAIN,Primary production,1.0,% of agricultural production,2024,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Switzerland,not further disaggregated/ several,Primary production,25.0,% of agricultural production,2011,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production
+Switzerland,not further disaggregated/ several,Retail and other distribution of food,9.7,% of mass flowing in the supply chain stage,n.a.,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,not further disaggregated/ several,Restaurants and food services,23.8,% of mass flowing in the supply chain stage,"2011, 2012, ?",03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of mass flowing in the supply chain stage
+Spain,not further disaggregated/ several,Primary production,1.3,% of agricultural production,2022,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,03650 - LETTUCES (GENERIC),Primary production,65.0,% of agricultural production,2013 (Sep.),03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production (harvested + unharvested yield)
+Sweden,03650 - LETTUCES (GENERIC),Retail and other distribution of food,3.0,% of mass flowing in the supply chain stage,2013 (Sep.),03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production
+Sweden,03650 - LETTUCES (GENERIC),Households,10302.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,06330 - TOMATOES,Retail and other distribution of food,6.8,% of mass flowing in the supply chain stage,2010-2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,06330 - TOMATOES,Households,3073.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,06500 - SWEET PEPPERS,Retail and other distribution of food,9.4,% of mass flowing in the supply chain stage,2010-2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,06500 - SWEET PEPPERS,Households,4141.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,07120 - CARROTS,Primary production,6.0,% of agricultural production,2021,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,07120 - CARROTS,Primary production,6.0,% of agricultural production,2020-2021 (7 more industries in spring 2022),03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,07120 - CARROTS,Primary production,20.25,% of agricultural production,2020-2021 (7 more industries in spring 2022),03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,07120 - CARROTS,Retail and other distribution of food,2.1,% of mass flowing in the supply chain stage,2010-2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,not further disaggregated/ several,Restaurants and food services,1.2391681109185442,% of served/purchased goods,2023 (8 days over 2 weeks),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg
+Not specified,07120 - CARROTS,Households,10826.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,05250 - BROCCOLI,Primary production,75.0,% of agricultural production,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,tonnes/year/country
+Sweden,03650 - LETTUCES (GENERIC),Retail and other distribution of food,9.7,% of mass flowing in the supply chain stage,2010-2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production
+Spain,06770 - COURGETTES (Zucchini),Retail and other distribution of food,2.5,% of mass flowing in the supply chain stage,2021,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of mass flowing in the supply chain stage
+Spain,06770 - COURGETTES (Zucchini),Retail and other distribution of food,1.5,% of mass flowing in the supply chain stage,2021,03580 - VEGETABLES AND VEGETABLE PRODUCTS,tonnes/year
+Spain,06770 - COURGETTES (Zucchini),Retail and other distribution of food,5.6,% of mass flowing in the supply chain stage,2021,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of mass flowing in the supply chain stage
+Spain,06770 - COURGETTES (Zucchini),Primary production,9.5,% of mass flowing in the supply chain stage,2021,03580 - VEGETABLES AND VEGETABLE PRODUCTS,tonnes/year
+Spain,06330 - TOMATOES,Retail and other distribution of food,3.4,% of mass flowing in the supply chain stage,2020,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of mass flowing in the supply chain stage
+Spain,06330 - TOMATOES,Retail and other distribution of food,5.8,% of mass flowing in the supply chain stage,2020,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of mass flowing in the supply chain stage
+Spain,06330 - TOMATOES,Retail and other distribution of food,9.2,% of mass flowing in the supply chain stage,2020,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of mass flowing in the supply chain stage
+Spain,06330 - TOMATOES,Primary production,10.1,% of mass flowing in the supply chain stage,2020,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of mass flowing in the supply chain stage
+Italy,07120 - CARROTS,Processing and manufacturing,7.54,% of agricultural production,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,06330 - TOMATOES,Primary production,11.0,% of agricultural production,2018 (data relevant to sauce factory date back to 2017),03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,06330 - TOMATOES,Primary production,0.9,% of agricultural production,2018 (data relevant to sauce factory date back to 2017),03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,06330 - TOMATOES,Processing and manufacturing,3.8,% of mass flowing in the supply chain stage,2018 (data relevant to sauce factory date back to 2017),03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,09330 - PROCESSED TOMATO PRODUCTS,Processing and manufacturing,3.1,% of mass flowing in the supply chain stage,2018 (data relevant to sauce factory date back to 2017),03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,09330 - PROCESSED TOMATO PRODUCTS,Retail and other distribution of food,0.2,% of mass flowing in the supply chain stage,2018 (data relevant to sauce factory date back to 2017),03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,06700 - CUCUMBERS,Restaurants and food services,72.0,g/day/capita,2016-2017,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,no information available,Restaurants and food services,115.0,g/day/capita,2016-2017,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,07120 - CARROTS,Retail and other distribution of food,17.2,% of served/purchased goods,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,05310 - CAULIFLOWERS,Retail and other distribution of food,14.5,% of served/purchased goods,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,06770 - COURGETTES (Zucchini),Retail and other distribution of food,3.8,% of served/purchased goods,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,06500 - SWEET PEPPERS,Retail and other distribution of food,13.9,% of served/purchased goods,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,06330 - TOMATOES,Retail and other distribution of food,12.9,% of served/purchased goods,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,03650 - LETTUCES (GENERIC),Retail and other distribution of food,8.1,% of served/purchased goods,2023,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,07120 - CARROTS,Primary production,15.0,% of agricultural production,2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,07120 - CARROTS,Primary production,6.2,% of agricultural production,2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,tonnes/ha/year
+Sweden,07120 - CARROTS,Primary production,11.0,% of agricultural production,2013,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,07120 - CARROTS,Processing and manufacturing,44.0,% of agricultural production,2013,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Norway,07120 - CARROTS,Primary production,4.5,% of agricultural production,2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Norway,07120 - CARROTS,Primary production,4.7,% of agricultural production,2015,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Denmark,07120 - CARROTS,Primary production,2.1,% of agricultural production,Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,tonnes/year
+Denmark,07120 - CARROTS,Primary production,6.1,% of agricultural production,Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,tonnes/year
+Finland,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,2.0,% of agricultural production,Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,8.0,% of agricultural production,Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,5.0,% of agricultural production,Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,29.0,% of agricultural production,Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Sweden,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,2.0,% of agricultural production,2015,03580 - VEGETABLES AND VEGETABLE PRODUCTS,tonnes/ha/year
+Norway,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,0.9,% of agricultural production,2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Norway,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,8.6,% of agricultural production,2014,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Denmark,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,21.0,% of agricultural production,Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Households,4.38,kg/year/capita,"2015, 2016, 2018, 2019",03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,07120 - CARROTS,Primary production,11.0,% of agricultural production (harvested + unharvested yield),Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,07120 - CARROTS,Primary production,7.0,% of agricultural production (harvested + unharvested yield),Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,04730 - HEAD CABBAGES AND SIMILAR,Primary production,7.0,% of agricultural production (harvested + unharvested yield),Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,04730 - HEAD CABBAGES AND SIMILAR,Primary production,0.0,% of agricultural production (harvested + unharvested yield),Not specified,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,03650 - LETTUCES (GENERIC),Primary production,16.0,% of agricultural production,2007-2011; 2012,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,03650 - LETTUCES (GENERIC),Primary production,5.0,% of agricultural production,2007-2011; 2012,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,03650 - LETTUCES (GENERIC),Primary production,25.038,% of mass flowing in the supply chain stage,2007-2011; 2012,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Processing and manufacturing,3.0,% of mass flowing in the supply chain stage,2019,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Retail and other distribution of food,3.0,% of mass flowing in the supply chain stage,2019,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,07120 - CARROTS,Households,0.94,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,06330 - TOMATOES,Households,2.91,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,06700 - CUCUMBERS,Households,0.99,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,06770 - COURGETTES (Zucchini),Households,0.9,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,05310 - CAULIFLOWERS,Households,1.01,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,05800 - ONION BULBS FOR FRESH CONSUMPTION,Households,1.38,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,04730 - HEAD CABBAGES AND SIMILAR,Households,4.11,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,06500 - SWEET PEPPERS,Households,2.19,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,05250 - BROCCOLI,Households,1.67,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Switzerland,03650 - LETTUCES (GENERIC),Households,1.11,g/day/capita,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Netherlands,not further disaggregated/ several,Households,8.1,% of served/purchased goods,2022,03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Netherlands,not further disaggregated/ several,Households,7.9,% of served/purchased goods,2019,03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Netherlands,not further disaggregated/ several,Households,14.0,% of served/purchased goods,2016,03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Italy,not further disaggregated/ several,Households,7.1,kg/year/capita,2017,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Households,9.0,kg/year/capita,2021,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Greece,not further disaggregated/ several,Households,9.3,kg/year/capita,2021,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+United Kingdom,05250 - BROCCOLI,Primary production,20.0,% of agricultural production,2016,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Austria,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,7.744000000000001,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Austria,06330 - TOMATOES,Primary production,1.088,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Austria,03650 - LETTUCES (GENERIC),Primary production,9.212,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Austria,07120 - CARROTS,Primary production,3.15,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Austria,06700 - CUCUMBERS,Primary production,4.5,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Austria,06770 - COURGETTES (Zucchini),Primary production,79.2,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Austria,03650 - LETTUCES (GENERIC),Primary production,42.1,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production
+Austria,07120 - CARROTS,Primary production,1.4,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production
+Austria,05800 - ONION BULBS FOR FRESH CONSUMPTION,Primary production,0.16,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production
+Switzerland,09580 - POTATOES,Primary production,2.5,% of agricultural production,2011,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Retail and other distribution of food,2.8,% of mass flowing in the supply chain stage,2011,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Restaurants and food services,13.1,% of mass flowing in the supply chain stage,"2011, 2012, ?",09560 - STARCHY ROOTS AND TUBERS,% of mass flowing in the supply chain stage
+Switzerland,09580 - POTATOES,Retail and other distribution of food,2.8,% of mass flowing in the supply chain stage,n.a.,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Spain,09580 - POTATOES,Primary production,0.0,% of agricultural production,2022,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Sweden,09580 - POTATOES,Primary production,6.0,% of agricultural production,Not specified,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Sweden,09580 - POTATOES,Processing and manufacturing,1.4,% of mass flowing in the supply chain stage,Not specified,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Sweden,09580 - POTATOES,Retail and other distribution of food,1.5,% of mass flowing in the supply chain stage,2010-2014,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Sweden,09580 - POTATOES,Restaurants and food services,2.175043327556326,% of served/purchased goods,2023 (8 days over 2 weeks),09560 - STARCHY ROOTS AND TUBERS,kg
+Sweden,09580 - POTATOES,Households,34646.0,tonnes/year/country,2023-2025 (likely longer than that),09560 - STARCHY ROOTS AND TUBERS,kg/year/capita
+Switzerland,09580 - POTATOES,Primary production,4.95,% of agricultural production,"2001-2003, 2011-2013",09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Primary production,1.69,% of agricultural production,"2001-2003, 2011-2013",09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Primary production,7.68,% of agricultural production,"2001-2003, 2011-2013",09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Primary production,2.5,% of agricultural production,"2001-2003, 2011-2013",09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Processing and manufacturing,19.0,% of mass flowing in the supply chain stage,2011-2013,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Households,15.0,% of mass flowing in the supply chain stage,2014,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,10130 - STARCHY ROOT AND TUBER PRODUCTS,Households,2.0,% of mass flowing in the supply chain stage,2014,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Italy,09580 - POTATOES,Primary production,7.5,% of agricultural production,Pre-pandemic and during the COVID-19 lockdown,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Italy,09580 - POTATOES,Processing and manufacturing,2.0,% of mass flowing in the supply chain stage,Pre-pandemic and during the COVID-19 lockdown,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Italy,09580 - POTATOES,Processing and manufacturing,11.1,% of mass flowing in the supply chain stage,Pre-pandemic and during the COVID-19 lockdown,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Italy,09580 - POTATOES,Retail and other distribution of food,53.8,% of served/purchased goods,2023,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Finland,09580 - POTATOES,Households,1.95,kg/year/capita,"2015, 2016, 2018, 2019",09560 - STARCHY ROOTS AND TUBERS,Not specified
+Finland,09580 - POTATOES,Primary production,1.0,% of agricultural production (harvested + unharvested yield),Not specified,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Finland,09580 - POTATOES,Primary production,2.0,% of agricultural production (harvested + unharvested yield),Not specified,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Finland,09580 - POTATOES,Primary production,4.0,% of agricultural production,2007-2011; 2012,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Finland,09580 - POTATOES,Primary production,2.0,% of agricultural production,2007-2011; 2012,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Finland,09580 - POTATOES,Processing and manufacturing,8.0,% of mass flowing in the supply chain stage,2007-2011; 2012,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,09580 - POTATOES,Households,3.4,g/day/capita,2024,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Netherlands,09580 - POTATOES,Households,12.3,% of served/purchased goods,2022,09560 - STARCHY ROOTS AND TUBERS,kg/year/capita
+Netherlands,09580 - POTATOES,Households,12.6,% of served/purchased goods,2019,09560 - STARCHY ROOTS AND TUBERS,kg/year/capita
+Netherlands,09580 - POTATOES,Households,11.4,% of served/purchased goods,2016,09560 - STARCHY ROOTS AND TUBERS,kg/year/capita
+Greece,not further disaggregated/ several,Households,0.8,kg/year/capita,2021,09560 - STARCHY ROOTS AND TUBERS,Not specified
+France,09580 - POTATOES,Primary production & Processing and manufacturing,12.7,% of agricultural production,Not specified,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Austria,09580 - POTATOES,Primary production,5.382,% of agricultural production,2024,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Austria,09580 - POTATOES,Primary production,1.6,% of agricultural production,2024,09560 - STARCHY ROOTS AND TUBERS,% of agricultural production
+Austria,09580 - POTATOES,Primary production,3.6,% of agricultural production,2024,09560 - STARCHY ROOTS AND TUBERS,% of agricultural production
+Spain,not further disaggregated/ several,Primary production,5.8,% of agricultural production,2022,10210 - LEGUMES,Not specified
+Italy,no information available,Restaurants and food services,167.0,g/day/capita,2016-2017,10210 - LEGUMES,Not specified
+Italy,no information available,Restaurants and food services,161.0,g/day/capita,2016-2017,10210 - LEGUMES,Not specified
+Finland,not further disaggregated/ several,Primary production,16.2,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Sweden,not further disaggregated/ several,Primary production,4.3,% of agricultural production,2014,10210 - LEGUMES,Not specified
+Sweden,no information available,Processing and manufacturing,17.1,% of agricultural production,2014,10210 - LEGUMES,Not specified
+Denmark,no information available,Primary production & Processing and manufacturing,18.0,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Norway,not further disaggregated/ several,Primary production,3.0,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Norway,not further disaggregated/ several,Primary production,5.0,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Norway,no information available,Processing and manufacturing,11.0,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Finland,no information available,Primary production,4.9,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Sweden,no information available,Primary production,4.0,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Sweden,no information available,Primary production,6.0,% of agricultural production,Not specified,10210 - LEGUMES,Not specified
+Switzerland,no information available,Households,4.43,g/day/capita,2024,10210 - LEGUMES,Not specified
+Italy,not further disaggregated/ several,Households,0.5,kg/year/capita,2017,10210 - LEGUMES,Not specified
+Italy,not further disaggregated/ several,Households,0.6,kg/year/capita,2021,10210 - LEGUMES,Not specified
+Greece,not further disaggregated/ several,Households,1.6,kg/year/capita,2021,10210 - LEGUMES,Not specified
+Austria,not further disaggregated/ several,Primary production,4.0,% of agricultural production,2024,10210 - LEGUMES,Not specified
+Switzerland,14730 - APPLES,Primary production,2.5,% of agricultural production,2011,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,14730 - APPLES,Retail and other distribution of food,3.1,% of mass flowing in the supply chain stage,n.a.,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,14730 - APPLES,Restaurants and food services,20.2,% of mass flowing in the supply chain stage,"2011, 2012, ?",14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Switzerland,"31710 - JUICE, APPLE",Retail and other distribution of food,1.1,% of mass flowing in the supply chain stage,n.a.,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,14730 - APPLES,Processing and manufacturing,0.8,% of mass flowing in the supply chain stage,2011,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,15270 - BERRIES AND SMALL FRUITS,Primary production,12.0,% of agricultural production,2011,14220 - FRUIT USED AS FRUIT,% of agricultural production
+Switzerland,15270 - BERRIES AND SMALL FRUITS,Retail and other distribution of food,7.9,% of mass flowing in the supply chain stage,n.a.,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,15270 - BERRIES AND SMALL FRUITS,Restaurants and food services,24.3,% of mass flowing in the supply chain stage,"2011, 2012, ?",14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14730 - APPLES,Primary production,2.5,% of agricultural production,2022,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,14730 - APPLES,Primary production,18.0,% of agricultural production,2009-2013,14220 - FRUIT USED AS FRUIT,tonnes/ha/year
+Sweden,14730 - APPLES,Primary production,2.0,% of agricultural production,2009-2013,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,14730 - APPLES,Retail and other distribution of food,3.6,% of mass flowing in the supply chain stage,2010-2014,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,14730 - APPLES,Households,25061.0,tonnes/year/country,2023-2025 (likely longer than that),14220 - FRUIT USED AS FRUIT,kg/year/capita
+Sweden,15300 - TABLE GRAPES,Retail and other distribution of food,9.2,% of mass flowing in the supply chain stage,2010-2014,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,14770 - PEARS,Retail and other distribution of food,5.4,% of mass flowing in the supply chain stage,2010-2014,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,15380 - STRAWBERRIES,Primary production,40.0,% of agricultural production,2021 + 2022,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,15380 - STRAWBERRIES,Primary production,12.0,% of agricultural production,2021 + 2022,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,15050 - PEACHES AND SIMILAR,Retail and other distribution of food,8.8,% of mass flowing in the supply chain stage,2010-2014,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,15270 - BERRIES AND SMALL FRUITS,Households,3408.0,tonnes/year/country,2023-2025 (likely longer than that),14220 - FRUIT USED AS FRUIT,kg/year/capita
+Sweden,"14360 - ORANGES, SWEET",Retail and other distribution of food,5.6,% of mass flowing in the supply chain stage,2010-2014,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,14230 - CITRUS FRUITS,Households,46312.0,tonnes/year/country,2023-2025 (likely longer than that),14220 - FRUIT USED AS FRUIT,kg/year/capita
+Spain,15050 - PEACHES AND SIMILAR,Retail and other distribution of food,3.7,% of mass flowing in the supply chain stage,2018,14220 - FRUIT USED AS FRUIT,tonnes/year
+Spain,15050 - PEACHES AND SIMILAR,Retail and other distribution of food,0.4,% of mass flowing in the supply chain stage,2018,14220 - FRUIT USED AS FRUIT,tonnes/year
+Spain,15050 - PEACHES AND SIMILAR,Retail and other distribution of food,3.1,% of mass flowing in the supply chain stage,2018,14220 - FRUIT USED AS FRUIT,tonnes/year
+Spain,15050 - PEACHES AND SIMILAR,Primary production,3.4,% of mass flowing in the supply chain stage,2018,14220 - FRUIT USED AS FRUIT,tonnes/year
+Spain,not further disaggregated/ several,Retail and other distribution of food,1.5,% of mass flowing in the supply chain stage,2019-2020,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,not further disaggregated/ several,Retail and other distribution of food,0.7,% of mass flowing in the supply chain stage,2019-2020,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,not further disaggregated/ several,Retail and other distribution of food,6.1,% of mass flowing in the supply chain stage,2019-2020,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,not further disaggregated/ several,Primary production,5.7,% of mass flowing in the supply chain stage,2019-2020,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14770 - PEARS,Retail and other distribution of food,3.0,% of mass flowing in the supply chain stage,2017-2018,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14770 - PEARS,Retail and other distribution of food,0.4,% of mass flowing in the supply chain stage,2017-2018,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14770 - PEARS,Retail and other distribution of food,2.8,% of mass flowing in the supply chain stage,2017-2018,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14770 - PEARS,Primary production,2.4,% of mass flowing in the supply chain stage,2017-2018,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14730 - APPLES,Retail and other distribution of food,2.3,% of mass flowing in the supply chain stage,2017-2018,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14730 - APPLES,Retail and other distribution of food,0.15,% of mass flowing in the supply chain stage,2017-2018,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Spain,14730 - APPLES,Primary production,1.7,% of mass flowing in the supply chain stage,2017-2018,14220 - FRUIT USED AS FRUIT,% of mass flowing in the supply chain stage
+Italy,14770 - PEARS,Restaurants and food services,185.0,g/day/capita,2016-2017,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,"14360 - ORANGES, SWEET",Restaurants and food services,172.0,g/day/capita,2016-2017,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,14.4,% of produced goods/meals,2017-2018,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,2.5833333333333335,kg/day,2014,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,14730 - APPLES,Retail and other distribution of food,4.4,% of served/purchased goods,2023,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,14770 - PEARS,Retail and other distribution of food,16.1,% of served/purchased goods,2023,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,"14360 - ORANGES, SWEET",Retail and other distribution of food,10.5,% of served/purchased goods,2023,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,15300 - TABLE GRAPES,Retail and other distribution of food,6.6,% of served/purchased goods,2023,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,15380 - STRAWBERRIES,Retail and other distribution of food,26.7,% of served/purchased goods,2023,14220 - FRUIT USED AS FRUIT,Not specified
+Finland,not further disaggregated/ several,Households,2.55,kg/year/capita,"2015, 2016, 2018, 2019",14220 - FRUIT USED AS FRUIT,Not specified
+Finland,15380 - STRAWBERRIES,Primary production,12.0,% of agricultural production (harvested + unharvested yield),Not specified,14220 - FRUIT USED AS FRUIT,Not specified
+Finland,15380 - STRAWBERRIES,Primary production,2.0,% of agricultural production (harvested + unharvested yield),Not specified,14220 - FRUIT USED AS FRUIT,Not specified
+Finland,15380 - STRAWBERRIES,Primary production,12.0,% of agricultural production,2007-2011; 2012,14220 - FRUIT USED AS FRUIT,Not specified
+Finland,15380 - STRAWBERRIES,Primary production,3.0,% of agricultural production,2007-2011; 2012,14220 - FRUIT USED AS FRUIT,Not specified
+Finland,not further disaggregated/ several,Retail and other distribution of food,3.0,% of mass flowing in the supply chain stage,2019,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,14730 - APPLES,Households,0.94,g/day/capita,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,14770 - PEARS,Households,2.61,g/day/capita,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,15380 - STRAWBERRIES,Households,1.84,g/day/capita,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,15270 - BERRIES AND SMALL FRUITS,Households,3.11,g/day/capita,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,15050 - PEACHES AND SIMILAR,Households,1.01,g/day/capita,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Switzerland,15300 - TABLE GRAPES,Households,0.36,g/day/capita,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Netherlands,not further disaggregated/ several,Households,8.9,% of served/purchased goods,2022,14220 - FRUIT USED AS FRUIT,kg/year/capita
+Netherlands,not further disaggregated/ several,Households,6.8,% of served/purchased goods,2019,14220 - FRUIT USED AS FRUIT,kg/year/capita
+Netherlands,not further disaggregated/ several,Households,12.2,% of served/purchased goods,2016,14220 - FRUIT USED AS FRUIT,kg/year/capita
+Italy,not further disaggregated/ several,Households,4.5,kg/year/capita,2017,14220 - FRUIT USED AS FRUIT,Not specified
+Italy,not further disaggregated/ several,Households,6.1,kg/year/capita,2021,14220 - FRUIT USED AS FRUIT,Not specified
+Greece,not further disaggregated/ several,Households,7.6,kg/year/capita,2021,14220 - FRUIT USED AS FRUIT,Not specified
+Austria,14730 - APPLES,Primary production,5.44,% of agricultural production,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Austria,14770 - PEARS,Primary production,0.75,% of agricultural production,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Austria,15380 - STRAWBERRIES,Primary production,28.304999999999996,% of agricultural production,2024,14220 - FRUIT USED AS FRUIT,Not specified
+Austria,14730 - APPLES,Primary production,0.9,% of agricultural production,2024,14220 - FRUIT USED AS FRUIT,% of agricultural production
+Austria,15380 - STRAWBERRIES,Primary production,4.4,% of agricultural production,2024,14220 - FRUIT USED AS FRUIT,% of agricultural production
+Italy,not further disaggregated/ several,Primary production,2.6,% of agricultural production,2017,14220 - FRUIT USED AS FRUIT,Not specified
+Spain,18870 - CHICKEN CARCASE,Primary production,4.9,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,18870 - CHICKEN CARCASE,Primary production,2.3,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,18780 - BOVINE CARCASE,Primary production,2.21,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,18780 - BOVINE CARCASE,Primary production,5.77,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,18780 - BOVINE CARCASE,Primary production,4.4,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,not further disaggregated/ several,Processing and manufacturing,1.43,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,not further disaggregated/ several,Retail and other distribution of food,4.6,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,not further disaggregated/ several,Retail and other distribution of food,12.12,% of agricultural production,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,18780 - BOVINE CARCASE,Primary production,1366.7,tonnes/year,2017-2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,18780 - BOVINE CARCASE,Primary production,8.5,% of agricultural production,2002-2021,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,not further disaggregated/ several,Retail and other distribution of food,1.3,% of mass flowing in the supply chain stage,2010-2014,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,19150 - BOVINE FRESH MEAT,Retail and other distribution of food,2.0,% of mass flowing in the supply chain stage,2010-2014,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,19150 - BOVINE FRESH MEAT,Restaurants and food services,0.20797227036395147,% of served/purchased goods,2023 (8 days over 2 weeks),18760 - MEAT AND MEAT PRODUCTS,kg
+Sweden,19150 - BOVINE FRESH MEAT,Households,427.0,tonnes/year/country,2023-2025 (likely longer than that),18760 - MEAT AND MEAT PRODUCTS,kg/year/capita
+Sweden,18790 - PIG CARCASE,Processing and manufacturing,9.6,% of agricultural production (harvested + unharvested yield),2020,18760 - MEAT AND MEAT PRODUCTS,% of edible by-product
+Sweden,not further disaggregated/ several,Primary production,3.0,% of raised/hatched animals,2020,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,not further disaggregated/ several,Processing and manufacturing,0.2,% of agricultural production (harvested + unharvested yield),2020,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,19260 - PIG FRESH MEAT,Retail and other distribution of food,1.7,% of mass flowing in the supply chain stage,2010-2014,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,19260 - PIG FRESH MEAT,Restaurants and food services,0.18197573656845756,% of served/purchased goods,2023 (8 days over 2 weeks),18760 - MEAT AND MEAT PRODUCTS,kg
+Sweden,19260 - PIG FRESH MEAT,Households,1343.0,tonnes/year/country,2023-2025 (likely longer than that),18760 - MEAT AND MEAT PRODUCTS,kg/year/capita
+Sweden,not further disaggregated/ several,Primary production,33.0,% of mature animals,2015,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,not further disaggregated/ several,Primary production,2.8,% of mature animals,2021-2023,18760 - MEAT AND MEAT PRODUCTS,tonnes/year/country
+Sweden,not further disaggregated/ several,Primary production,3.2,% of agricultural production,2021,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,9630 - POULTRY FRESH MEAT,Retail and other distribution of food,1.4,% of mass flowing in the supply chain stage,2010-2014,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,18870 - CHICKEN CARCASE,Restaurants and food services,0.2512998266897747,% of served/purchased goods,2023 (8 days over 2 weeks),18760 - MEAT AND MEAT PRODUCTS,kg
+Sweden,9630 - POULTRY FRESH MEAT,Households,4430.0,tonnes/year/country,2023-2025 (likely longer than that),18760 - MEAT AND MEAT PRODUCTS,kg/year/capita
+Spain,18790 - PIG CARCASE,Processing and manufacturing,0.4,% of mass flowing in the supply chain stage,2022,18760 - MEAT AND MEAT PRODUCTS,tonnes/year
+Spain,not further disaggregated/ several,Processing and manufacturing,0.7,% of mass flowing in the supply chain stage,2022,18760 - MEAT AND MEAT PRODUCTS,tonnes/year
+Spain,not further disaggregated/ several,Primary production,0.4,% of mass flowing in the supply chain stage,2022,18760 - MEAT AND MEAT PRODUCTS,tonnes/year
+Italy,not further disaggregated/ several,Processing and manufacturing,40.0,% of agricultural production,2018,18760 - MEAT AND MEAT PRODUCTS,tonnes/year/country
+Italy,19150 - BOVINE FRESH MEAT,Retail and other distribution of food,36.3,% of mass flowing in the supply chain stage,2018,18760 - MEAT AND MEAT PRODUCTS,tonnes/year/country
+Italy,not further disaggregated/ several,Processing and manufacturing,13.89,% of agricultural production,2018,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Italy,19260 - PIG FRESH MEAT,Retail and other distribution of food,19.64,% of mass flowing in the supply chain stage,2018,18760 - MEAT AND MEAT PRODUCTS,tonnes/year/country
+Italy,not further disaggregated/ several,Processing and manufacturing,26.52,% of agricultural production,2018,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Italy,9630 - POULTRY FRESH MEAT,Retail and other distribution of food,4.21,% of mass flowing in the supply chain stage,2018,18760 - MEAT AND MEAT PRODUCTS,tonnes/year/country
+Italy,not further disaggregated/ several,Processing and manufacturing,2.0,% of agricultural production,na,18760 - MEAT AND MEAT PRODUCTS,% of agricultural production
+Italy,9630 - POULTRY FRESH MEAT,Retail and other distribution of food,12.0,% of mass flowing in the supply chain stage,na,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Retail and other distribution of food,13.0,kg/year,2015,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Retail and other distribution of food,1359.0,kg/year,2015,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,16.1,% of produced goods/meals,2017-2018,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Households,2.65,kg/year/capita,"2015, 2016, 2018, 2019",18760 - MEAT AND MEAT PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Primary production,10.0,% of agricultural production,2010-2012,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Primary production,3.5,% of agricultural production,2010-2012,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Retail and other distribution of food,2.0,% of mass flowing in the supply chain stage,2019,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,19150 - BOVINE FRESH MEAT,Households,7.21,g/day/capita,2024,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,19260 - PIG FRESH MEAT,Households,7.21,g/day/capita,2024,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,9630 - POULTRY FRESH MEAT,Households,1.37,g/day/capita,2024,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Netherlands,not further disaggregated/ several,Households,7.5,% of served/purchased goods,2022,18760 - MEAT AND MEAT PRODUCTS,kg/year/capita
+Netherlands,not further disaggregated/ several,Households,7.0,% of served/purchased goods,2019,18760 - MEAT AND MEAT PRODUCTS,kg/year/capita
+Netherlands,not further disaggregated/ several,Households,9.7,% of served/purchased goods,2016,18760 - MEAT AND MEAT PRODUCTS,kg/year/capita
+Italy,not further disaggregated/ several,Households,1.8,kg/year/capita,2017,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Households,1.8,kg/year/capita,2021,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Greece,not further disaggregated/ several,Households,1.6,kg/year/capita,2021,18760 - MEAT AND MEAT PRODUCTS,Not specified
+France,not further disaggregated/ several,Primary production & Processing and manufacturing,8.4,% of agricultural production,Not specified,18760 - MEAT AND MEAT PRODUCTS,Not specified
+France,not further disaggregated/ several,Primary production & Processing and manufacturing,6.0,% of agricultural production,Not specified,18760 - MEAT AND MEAT PRODUCTS,Not specified
+France,not further disaggregated/ several,Primary production & Processing and manufacturing,4.8,% of agricultural production,Not specified,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,not further disaggregated/ several,Households,2.2,kg/year/capita,2022,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Austria,not further disaggregated/ several,Primary production,0.6649999999999999,% of mature animals,2024,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Austria,not further disaggregated/ several,Primary production,1.3,% of mature animals,2024,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Austria,not further disaggregated/ several,Primary production,0.9899999999999999,% of mature animals,2024,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Spain,24050 - ANCHOVIES,Primary production,0.72,% of agricultural production,2022,22120 - FISH (MEAT),Not specified
+Spain,24170 - TUNA,Primary production,0.0,% of agricultural production,2022,22120 - FISH (MEAT),Not specified
+Spain,24180 - ALBACORE,Primary production,0.25,% of agricultural production,2022,22120 - FISH (MEAT),Not specified
+Spain,23510 - HAKES,Primary production,0.0,% of agricultural production,2022,22120 - FISH (MEAT),Not specified
+Spain,23630 - MULLETS,Primary production,0.0,% of agricultural production,2022,22120 - FISH (MEAT),Not specified
+Spain,24020 - SARDINES AND SARDINE-TYPE FISHES,Primary production,0.75,% of agricultural production,2022,22120 - FISH (MEAT),Not specified
+Spain,24290 - SEERFISH,Primary production,0.6,% of agricultural production,2022,22120 - FISH (MEAT),Not specified
+Spain,not further disaggregated/ several,Processing and manufacturing,0.84,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),Not specified
+Spain,not further disaggregated/ several,Retail and other distribution of food,10.43,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),Not specified
+Spain,not further disaggregated/ several,Retail and other distribution of food,14.43,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),Not specified
+Sweden,not further disaggregated/ several,Primary production,8.0,% of fish caught for human consumption,2021,22120 - FISH (MEAT),tonnes/year/country
+Sweden,22120 - FISH (MEAT),Restaurants and food services,0.4506065857885615,% of served/purchased goods,2023 (8 days over 2 weeks),22120 - FISH (MEAT),kg
+Sweden,22120 - FISH (MEAT),Households,970.0,tonnes/year/country,2023-2025 (likely longer than that),22120 - FISH (MEAT),kg/year/capita
+Spain,24050 - ANCHOVIES,Retail and other distribution of food,4.0,% of mass flowing in the supply chain stage,2021,22120 - FISH (MEAT),tonnes/year
+Spain,24050 - ANCHOVIES,Retail and other distribution of food,1.0,% of mass flowing in the supply chain stage,2021,22120 - FISH (MEAT),tonnes/year
+Spain,24050 - ANCHOVIES,Primary production,1.7,% of mass flowing in the supply chain stage,2021,22120 - FISH (MEAT),tonnes/year
+Spain,23510 - HAKES,Retail and other distribution of food,4.7,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),tonnes/year
+Spain,23510 - HAKES,Retail and other distribution of food,8.3,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),tonnes/year
+Spain,23510 - HAKES,Retail and other distribution of food,4.8,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),tonnes/year
+Spain,23510 - HAKES,Retail and other distribution of food,0.6,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),tonnes/year
+Spain,23510 - HAKES,Retail and other distribution of food,0.01,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),tonnes/year
+Spain,23510 - HAKES,Primary production,2.1,% of mass flowing in the supply chain stage,2022,22120 - FISH (MEAT),tonnes/year
+Italy,22120 - FISH (MEAT),Restaurants and food services,24.2,% of produced goods/meals,2017-2018,22120 - FISH (MEAT),Not specified
+Finland,not further disaggregated/ several,Primary production,5.6,% of agricultural production,Not specified,22120 - FISH (MEAT),Not specified
+Switzerland,22120 - FISH (MEAT),Households,2.04,g/day/capita,2024,22120 - FISH (MEAT),Not specified
+Netherlands,22120 - FISH (MEAT),Households,3.5,% of served/purchased goods,2022,22120 - FISH (MEAT),kg/year/capita
+Netherlands,22120 - FISH (MEAT),Households,7.2,% of served/purchased goods,2019,22120 - FISH (MEAT),kg/year/capita
+Netherlands,22120 - FISH (MEAT),Households,5.0,% of served/purchased goods,2016,22120 - FISH (MEAT),kg/year/capita
+Italy,22120 - FISH (MEAT),Households,0.5,kg/year/capita,2017,22120 - FISH (MEAT),Not specified
+Italy,22120 - FISH (MEAT),Households,0.4,kg/year/capita,2021,22120 - FISH (MEAT),Not specified
+Greece,22120 - FISH (MEAT),Households,0.5,kg/year/capita,2021,22120 - FISH (MEAT),Not specified
+Spain,26530 - COW MILK,Primary production,0.51,% of agricultural production,2022,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Spain,26530 - COW MILK,Processing and manufacturing,0.21,% of mass flowing in the supply chain stage,2022,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Sweden,26530 - COW MILK,Primary production,0.4,% of agricultural production,2020,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Sweden,26530 - COW MILK,Processing and manufacturing,23.0,% of mass flowing in the supply chain stage,2021,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Sweden,26530 - COW MILK,Retail and other distribution of food,0.2,% of mass flowing in the supply chain stage,2010-2014,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Sweden,27310 - CHEESE,Retail and other distribution of food,0.6,% of mass flowing in the supply chain stage,2010-2014,26490 - MILK AND DAIRY PRODUCTS,tonnes/store/year
+Sweden,27310 - CHEESE,Restaurants and food services,0.008665511265164644,% of served/purchased goods,2023 (8 days over 2 weeks),26490 - MILK AND DAIRY PRODUCTS,kg
+Sweden,27310 - CHEESE,Households,7310.0,tonnes/year/country,2023-2025 (likely longer than that),26490 - MILK AND DAIRY PRODUCTS,kg/year/capita
+Italy,not further disaggregated/ several,Retail and other distribution of food,6606.0,kg/year,2015,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Italy,01160 - BREAD AND SIMILAR PRODUCTS,Restaurants and food services,17.6,% of produced goods/meals,2017-2018,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,20.5,% of produced goods/meals,2017-2018,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Households,1.38,kg/year/capita,"2015, 2016, 2018, 2019",26490 - MILK AND DAIRY PRODUCTS,Not specified
+Finland,26530 - COW MILK,Primary production,0.5,% of agricultural production,2012,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Processing and manufacturing,1.0,% of mass flowing in the supply chain stage,2019,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Finland,not further disaggregated/ several,Retail and other distribution of food,1.0,% of mass flowing in the supply chain stage,2019,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,31480 - BUTTER,Households,7.25,g/day/capita,2024,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,26530 - COW MILK,Households,7.76,g/day/capita,2024,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,"26810 - CREAM, PLAIN",Households,3.04,g/day/capita,2024,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,"26940 - YOGHURT, COW MILK",Households,3.46,g/day/capita,2024,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,27310 - CHEESE,Households,1.91,g/day/capita,2024,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,not further disaggregated/ several,Households,3.93,g/day/capita,2024,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Netherlands,27310 - CHEESE,Households,10.1,% of served/purchased goods,2022,26490 - MILK AND DAIRY PRODUCTS,kg/year/capita
+Netherlands,27310 - CHEESE,Households,6.2,% of served/purchased goods,2019,26490 - MILK AND DAIRY PRODUCTS,kg/year/capita
+Netherlands,27310 - CHEESE,Households,8.5,% of served/purchased goods,2016,26490 - MILK AND DAIRY PRODUCTS,kg/year/capita
+Italy,not further disaggregated/ several,Households,4.8,kg/year/capita,2017,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Households,5.8,kg/year/capita,2021,26490 - MILK AND DAIRY PRODUCTS,Not specified
+France,26530 - COW MILK,Primary production,1.0,% of agricultural production,Not specified,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Austria,26530 - COW MILK,Primary production,0.392,% of agricultural production,2024,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Spain,29510 - HEN EGGS,Primary production,4.21,% of agricultural production,2022,29480 - EGGS AND EGG PRODUCTS,Not specified
+Italy,no information available,Restaurants and food services,23.8,% of produced goods/meals,2017-2018,29480 - EGGS AND EGG PRODUCTS,Not specified
+Italy,no information available,Restaurants and food services,29.7,% of produced goods/meals,2017-2018,10210 - LEGUMES,Not specified
+Italy,no information available,Restaurants and food services,29.7,% of produced goods/meals,2017-2018,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
+Italy,00380 - RICE GRAIN,Restaurants and food services,23.7,% of produced goods/meals,2017-2018,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,01750 - PASTA AND SIMILAR PRODUCTS,Restaurants and food services,23.7,% of produced goods/meals,2017-2018,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Italy,09580 - POTATOES,Restaurants and food services,23.7,% of produced goods/meals,2017-2018,09560 - STARCHY ROOTS AND TUBERS,Not specified
+Switzerland,29510 - HEN EGGS,Households,3.06,g/day/capita,2024,29480 - EGGS AND EGG PRODUCTS,Not specified
+Netherlands,29510 - HEN EGGS,Households,7.9,% of served/purchased goods,2022,29480 - EGGS AND EGG PRODUCTS,kg/year/capita
+Netherlands,29510 - HEN EGGS,Households,6.2,% of served/purchased goods,2019,29480 - EGGS AND EGG PRODUCTS,kg/year/capita
+Netherlands,29510 - HEN EGGS,Households,4.4,% of served/purchased goods,2016,29480 - EGGS AND EGG PRODUCTS,kg/year/capita
+Italy,no information available,Households,0.3,kg/year/capita,2017,29480 - EGGS AND EGG PRODUCTS,Not specified
+Italy,no information available,Households,0.6,kg/year/capita,2021,29480 - EGGS AND EGG PRODUCTS,Not specified
+Greece,29510 - HEN EGGS,Households,0.5,kg/year/capita,2021,29480 - EGGS AND EGG PRODUCTS,Not specified
+France,29510 - HEN EGGS,Primary production,0.5,% of agricultural production,Not specified,29480 - EGGS AND EGG PRODUCTS,Not specified
+France,29510 - HEN EGGS,Processing and manufacturing,4.0,% of agricultural production,Not specified,29480 - EGGS AND EGG PRODUCTS,Not specified
+Austria,29510 - HEN EGGS,Primary production,1.4040000000000001,% of agricultural production,2024,29480 - EGGS AND EGG PRODUCTS,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,160.0,g/day/capita,2016-2017,38450 - COMPOSITE DISHES,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,13.583333333333334,kg/day,2014,38450 - COMPOSITE DISHES,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,117.0,g/day/capita,2022-2023,38450 - COMPOSITE DISHES,Not specified
+Italy,not further disaggregated/ several,Restaurants and food services,20.0,% of served goods,2018,38450 - COMPOSITE DISHES,Not specified
+Switzerland,not further disaggregated/ several,Households,3.43,g/day/capita,2024,38450 - COMPOSITE DISHES,Not specified
+Netherlands,not further disaggregated/ several,Households,1.85,kg/year/capita,2022,38450 - COMPOSITE DISHES,Not specified
+Netherlands,not further disaggregated/ several,Households,0.27,kg/year/capita,2019,38450 - COMPOSITE DISHES,Not specified
+Netherlands,not further disaggregated/ several,Households,1.31,kg/year/capita,2016,38450 - COMPOSITE DISHES,Not specified
+Spain,not further disaggregated/ several,Processing and manufacturing,3.9,tonnes/year,2022,Beverages,Not specified
+Spain,not further disaggregated/ several,Retail and other distribution of food,6.18,% of mass flowing in the supply chain stage,2022,Beverages,Not specified
+Spain,not further disaggregated/ several,Retail and other distribution of food,9.05,% of mass flowing in the supply chain stage,2022,Beverages,Not specified
+Spain,not further disaggregated/ several,Retail and other distribution of food,8.48,% of mass flowing in the supply chain stage,2022,Beverages,Not specified
+Spain,15050 - PEACHES AND SIMILAR,Processing and manufacturing,2.7,% of mass flowing in the supply chain stage,2018,Beverages,tonnes/year
+Spain,14230 - CITRUS FRUITS,Processing and manufacturing,0.7,% of mass flowing in the supply chain stage,2019-2020,Beverages,% of mass flowing in the supply chain stage
+Spain,14770 - PEARS,Processing and manufacturing,0.9,% of mass flowing in the supply chain stage,2017-2018,Beverages,% of mass flowing in the supply chain stage
+Spain,14730 - APPLES,Processing and manufacturing,0.8,% of mass flowing in the supply chain stage,2017-2018,Beverages,% of mass flowing in the supply chain stage
+Spain,"31710 - JUICE, APPLE",Retail and other distribution of food,2.7,% of mass flowing in the supply chain stage,2017-2018,Beverages,% of mass flowing in the supply chain stage
+Finland,Not specified,Processing and manufacturing,3.0,% of mass flowing in the supply chain stage,2019,Beverages,Not specified
+Switzerland,Not specified,Households,5.18,g/day/capita,2024,Beverages,Not specified
+Italy,Not specified,Households,1.1,kg/year/capita,2017,Beverages,Not specified
+Italy,Not specified,Households,1.0,kg/year/capita,2021,Beverages,Not specified
+Switzerland,not further disaggregated/ several,Households,0.7,kg/year/capita,2022,Beverages,Not specified
+Austria,04730 - HEAD CABBAGES AND SIMILAR,Primary production,4.95,% of agricultural production,2024,03580 - VEGETABLES AND VEGETABLE PRODUCTS,% of agricultural production
+Sweden,07120 - CARROTS,Households,10826.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,05250 - BROCCOLI,Households,2835.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,04730 - HEAD CABBAGES AND SIMILAR,Households,13104.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,05310 - CAULIFLOWERS,Households,1926.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,"34020 - COFFEE, COCOA, TEA AND INFUSIONS",Households,180229.0,tonnes/year/country,2023-2025 (likely longer than that),Beverages,kg/year/capita
+Sweden,not further disaggregated/ several,Households,17292.0,tonnes/year/country,2023-2025 (likely longer than that),38450 - COMPOSITE DISHES,kg/year/capita
+Sweden,06700 - CUCUMBERS,Households,3847.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,29510 - HEN EGGS,Households,15430.0,tonnes/year/country,2023-2025 (likely longer than that),29480 - EGGS AND EGG PRODUCTS,kg/year/capita
+Sweden,not further disaggregated/ several,Households,1892.0,tonnes/year/country,2023-2025 (likely longer than that),10210 - LEGUMES,kg/year/capita
+Sweden,05800 - ONION BULBS FOR FRESH CONSUMPTION,Households,15059.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Sweden,no information available,Households,1636.0,tonnes/year/country,2023-2025 (likely longer than that),26490 - MILK AND DAIRY PRODUCTS,kg/year/capita
+Sweden,01750 - PASTA AND SIMILAR PRODUCTS,Households,10815.0,tonnes/year/country,2023-2025 (likely longer than that),00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/year/capita
+Sweden,06770 - COURGETTES (Zucchini),Households,1082.0,tonnes/year/country,2023-2025 (likely longer than that),03580 - VEGETABLES AND VEGETABLE PRODUCTS,kg/year/capita
+Switzerland,26530 - COW MILK,Primary production,1.0,% of agricultural production,2011,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,not further disaggregated/ several,Retail and other distribution of food,0.9,% of mass flowing in the supply chain stage,n.a.,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,not further disaggregated/ several,Restaurants and food services,5.5,% of mass flowing in the supply chain stage,"2011, 2012, ?",26490 - MILK AND DAIRY PRODUCTS,Not specified
+Switzerland,18780 - BOVINE CARCASE,Primary production,4.0,% of agricultural production,2011,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,18790 - PIG CARCASE,Processing and manufacturing,26.7,% of mass flowing in the supply chain stage,2011,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,18780 - BOVINE CARCASE,Processing and manufacturing,43.0,% of mass flowing in the supply chain stage,2011,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,18870 - CHICKEN CARCASE,Processing and manufacturing,39.0,% of mass flowing in the supply chain stage,2011,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,19260 - PIG FRESH MEAT,Retail and other distribution of food,1.5,% of mass flowing in the supply chain stage,n.a.,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,19260 - PIG FRESH MEAT,Restaurants and food services,10.3,% of mass flowing in the supply chain stage,"2011, 2012, ?",18760 - MEAT AND MEAT PRODUCTS,% of mass flowing in the supply chain stage
+Switzerland,19150 - BOVINE FRESH MEAT,Retail and other distribution of food,1.9,% of mass flowing in the supply chain stage,n.a.,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,19150 - BOVINE FRESH MEAT,Restaurants and food services,19.4,% of mass flowing in the supply chain stage,"2011, 2012, ?",18760 - MEAT AND MEAT PRODUCTS,% of mass flowing in the supply chain stage
+Switzerland,9630 - POULTRY FRESH MEAT,Retail and other distribution of food,1.3,% of mass flowing in the supply chain stage,n.a.,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Switzerland,9630 - POULTRY FRESH MEAT,Restaurants and food services,13.1,% of mass flowing in the supply chain stage,"2011, 2012, ?",18760 - MEAT AND MEAT PRODUCTS,% of mass flowing in the supply chain stage
+Italy,01160 - BREAD AND SIMILAR PRODUCTS,Retail and other distribution of food,4.7,% of produced goods,February–June 2023,00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg/day
+Sweden,01160 - BREAD AND SIMILAR PRODUCTS,Restaurants and food services,0.32062391681109187,% of served/purchased goods,2023 (8 days over 2 weeks),00010 - GRAINS AND GRAIN-BASED PRODUCTS,kg
+Sweden,"26810 - CREAM, PLAIN",Retail and other distribution of food,0.43,% of mass flowing in the supply chain stage,2010-2014,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Sweden,29510 - HEN EGGS,Retail and other distribution of food,0.35,% of mass flowing in the supply chain stage,2010-2014,29480 - EGGS AND EGG PRODUCTS,Not specified
+Sweden,31570 - FRUIT AND VEGETABLE JUICES AND NECTARS (INCLUDING CONCENTRATES),Retail and other distribution of food,0.38,% of mass flowing in the supply chain stage,2010-2014,Beverages,Not specified
+Sweden,"26940 - YOGHURT, COW MILK",Retail and other distribution of food,0.2,% of mass flowing in the supply chain stage,2010-2014,26490 - MILK AND DAIRY PRODUCTS,Not specified
+Sweden,15270 - BERRIES AND SMALL FRUITS,Retail and other distribution of food,12.0,% of mass flowing in the supply chain stage,2010-2014,14220 - FRUIT USED AS FRUIT,Not specified
+Sweden,00570 - COMMON WHEAT GRAIN,Primary production,3.0,% of agricultural production,2021,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Sweden,00570 - COMMON WHEAT GRAIN,Primary production,2.0,% of agricultural production,2021,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Sweden,00570 - COMMON WHEAT GRAIN,Primary production,0.24,% of agricultural production,2021,00010 - GRAINS AND GRAIN-BASED PRODUCTS,Not specified
+Sweden,18780 - BOVINE CARCASE,Primary production,8.0,% of agricultural production (harvested + unharvested yield),2021,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,18780 - BOVINE CARCASE,Processing and manufacturing,0.2,% of agricultural production (harvested + unharvested yield),2021,18760 - MEAT AND MEAT PRODUCTS,Not specified
+Sweden,18780 - BOVINE CARCASE,Processing and manufacturing,8.2,% of agricultural production (harvested + unharvested yield),2021,18760 - MEAT AND MEAT PRODUCTS,% of edible by-product
+Finland,03650 - LETTUCES (GENERIC),Retail and other distribution of food,3.5,% of mass flowing in the supply chain stage,2007-2011; 2012;2013-20223,03580 - VEGETABLES AND VEGETABLE PRODUCTS,Not specified
